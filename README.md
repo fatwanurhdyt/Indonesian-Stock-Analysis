@@ -160,7 +160,7 @@ pip install yfinance pandas numpy matplotlib seaborn scipy jupyter
 jupyter notebook notebooks/analisis_portofolio.ipynb
 ```
 
-The notebook will automatically fetch the latest stock data from Yahoo Finance. To replicate the exact results in this README, set the date range to `2020-01-01` to `2024-12-31`.
+The notebook will automatically fetch the latest stock data from Yahoo Finance. To replicate the exact results in this README, set the date range to `2020-01-01` to `2025-12-31`.
 
 ---
 
